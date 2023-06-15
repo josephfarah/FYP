@@ -55,7 +55,7 @@
               </div>
 
               <br>
-              <button class="btn btn-lg btn-primary btn-block text-uppercase" type="submit">hi up</button>
+              <button class="btn btn-lg btn-primary btn-block text-uppercase" type="submit">sign up</button>
               <hr class="my-4">
 
             </form>
